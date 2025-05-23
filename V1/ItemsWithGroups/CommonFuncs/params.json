@@ -1,1 +1,0 @@
-{"TableName":"ItemsWithGroups","DataPath":"Data","Columns":["ITEMNAME","ITEMCATEGORY","ITEMGROUP","GUID"],"ColumnsWithSchema":[{"ColumnName":"ITEMNAME","unique":true,"type":"STRING"},{"ColumnName":"ITEMCATEGORY","unique":false,"type":"NUMBER"},{"ColumnName":"ITEMGROUP","unique":false,"type":"NUMBER"},{"ColumnName":"GUID","unique":false,"type":"NUMBER"}]}

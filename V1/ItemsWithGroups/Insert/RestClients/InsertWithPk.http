@@ -1,7 +1,0 @@
-POST http://localhost:3000/V1/ItemsWithGroups/Insert/InsertWithPk
-Content-Type: application/json
-
-{
-    "Name":"Sree",
-    "Mobile":8341177771
-}
