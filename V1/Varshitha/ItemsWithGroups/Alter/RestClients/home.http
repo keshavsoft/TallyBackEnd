@@ -1,0 +1,8 @@
+POST http://localhost:3000/V1/Varshitha/ItemsWithGroups/Alter/3
+Content-Type: application/json
+
+ {
+    "ITEMNAME": "12*1.75 FRONT MAG WHEEL",
+    "ITEMCATEGORY": "Not Applicable",
+    "ITEMGROUP": "Tyres"
+  }
