@@ -1,0 +1,8 @@
+POST http://localhost:3000/V1/Sunil/ItemWithGroup/InsertWithPkAndUuidAndDateTime
+Content-Type: application/json
+
+{
+        "ITEMNAME": "10g Nipples",
+        "ITEMCATEGORY": "JAYMEX",
+        "ITEMGROUP": "Spokes"
+    }
