@@ -1,0 +1,10 @@
+POST http://localhost:3000/V1/ItemsWithGroups/Insert/InsertWithColumns
+Content-Type: application/json
+
+{
+	"GUID" : "",
+	"ITEMGROUP" : "",
+	"ITEMCATEGORY" : "",
+	"ITEMNAME" : ""
+  
+}

@@ -1,0 +1,9 @@
+POST http://localhost:3000/V1/ItemsWithGroups/Alter/WithPk/{pk}
+Content-Type: application/json
+
+{
+	"GUID" : "",
+	"ITEMGROUP" : "",
+	"ITEMCATEGORY" : "",
+	"ITEMNAME" : ""
+}
